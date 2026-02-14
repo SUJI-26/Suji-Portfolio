@@ -3,7 +3,7 @@ import cakeImg from '../assets/images/Cake .png'
 import calculatorImg from '../assets/images/calculater-img.png'
 import todoImg from '../assets/images/todo.png'
 import weatherImg from '../assets/images/weather-App.png'
-
+import cineworldImg from '../assets/images/Cine-world.png'
 export const example = [
   {
     title: 'Cake Shop',
@@ -14,7 +14,7 @@ export const example = [
   },
   {
     title: 'Calculater',
-    tech: 'HTML, CSS, JavaScript',
+    tech: 'HTML, CSS, Javascript',
     image: calculatorImg,
     github: 'https://github.com/SUJI-26/calculater-project.git',
     live: 'https://projectcalculater.netlify.app/'
@@ -32,5 +32,13 @@ export const example = [
     image: weatherImg,
     github: 'https://github.com/SUJI-26/weather-project.git',
     live: 'https://weather-project-seven-kohl.vercel.app/'
+  },
+  {
+    title: 'Cine World',
+    tech: 'React.js, JavaScript (ES6+)',
+    image: cineworldImg,
+    github: 'https://github.com/SUJI-26/CineWorld.git',
+    live: 'https://cine-world-three.vercel.app/'
+
   }
 ]
