@@ -5,6 +5,15 @@ import todoImg from '../assets/images/todo.png'
 import weatherImg from '../assets/images/weather-App.png'
 import cineworldImg from '../assets/images/Cine-world.png'
 export const example = [
+
+    {
+    title: 'Cine World',
+    tech: 'React.js, JavaScript (ES6+)',
+    image: cineworldImg,
+    github: 'https://github.com/SUJI-26/CineWorld.git',
+    live: 'https://cine-world-three.vercel.app/'
+
+  },
   {
     title: 'Cake Shop',
     tech: 'HTML, CSS, JavaScript',
@@ -33,12 +42,5 @@ export const example = [
     github: 'https://github.com/SUJI-26/weather-project.git',
     live: 'https://weather-project-seven-kohl.vercel.app/'
   },
-  {
-    title: 'Cine World',
-    tech: 'React.js, JavaScript (ES6+)',
-    image: cineworldImg,
-    github: 'https://github.com/SUJI-26/CineWorld.git',
-    live: 'https://cine-world-three.vercel.app/'
 
-  }
 ]
