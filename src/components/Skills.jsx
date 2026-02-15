@@ -38,7 +38,7 @@ const Skills = () => {
                     <div className="skill-item">
                       <div className="skill-info">
                         <p>HTML</p>
-                        <p>80%</p>
+                        <p>90%</p>
                       </div>
                       <div className="skill-bar">
                         <div className="skill-progress html"></div>
@@ -47,7 +47,7 @@ const Skills = () => {
                     <div className="skill-item">
                       <div className="skill-info">
                         <p>CSS</p>
-                        <p>70%</p>
+                        <p>80%</p>
                       </div>
                       <div className="skill-bar">
                         <div className="skill-progress css"></div>
@@ -56,7 +56,7 @@ const Skills = () => {
                     <div className="skill-item">
                       <div className="skill-info">
                         <p>JavaScript</p>
-                        <p>50%</p>
+                        <p>70%</p>
                       </div>
                       <div className="skill-bar">
                         <div className="skill-progress js"></div>
