@@ -24,7 +24,7 @@ function App() {
     localStorage.setItem('theme', theme)
   }, [theme])
 
-  // Active nav links on scroll
+  // Active nav links on scroll by Suji
   useEffect(() => {
     const sections = document.querySelectorAll('section[id]')
     const handleScroll = () => {
