@@ -19,7 +19,7 @@ const Home = () => {
               <a href="#contact" className="btn primary-btn">
                 Hire Me <i className="fas fa-arrow-right"></i>
               </a>
-              <a href="/Suji CV.pdf" className="btn secondary-btn">
+              <a href="SUJI-Front.pdf" className="btn secondary-btn">
                 Download CV <i className="fas fa-download"></i>
               </a>
             </div>

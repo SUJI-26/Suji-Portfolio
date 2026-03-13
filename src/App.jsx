@@ -9,7 +9,6 @@ import Footer from './components/Footer'
 import Schroll from './components/schroll'
 import ThemeToggleButton from './components/ThemeToggleButton'
 import ScrollReveal from 'scrollreveal' // if installed via npm, else use global
-
 function App() {
   const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light')
 

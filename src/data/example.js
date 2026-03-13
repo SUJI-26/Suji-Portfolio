@@ -4,6 +4,8 @@ import calculatorImg from '../assets/images/calculater-img.png'
 import todoImg from '../assets/images/todo.png'
 import weatherImg from '../assets/images/weather-App.png'
 import cineworldImg from '../assets/images/Cine-world.png'
+import eletro from '../assets/images/Eletro.png'
+import forever from '../assets/images/Forever.png'
 export const example = [
 
     {
@@ -12,6 +14,21 @@ export const example = [
     image: cineworldImg,
     github: 'https://github.com/SUJI-26/CineWorld.git',
     live: 'https://cine-world-three.vercel.app/'
+
+  },
+  {
+    title: 'Electromart',
+    tech: 'React.js, JavaScript (ES6+)',
+    image: eletro,
+    github: 'https://github.com/SUJI-26/Spark-Electronics.git',
+    live: '#'
+  },
+  {
+    title: 'Forever',
+    tech: 'React.js, JavaScript (ES6+)',
+    image: forever,
+    github: 'https://github.com/SUJI-26/Forever-Clothing-project.git',
+    live: '#'
 
   },
   {
