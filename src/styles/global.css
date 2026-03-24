@@ -230,7 +230,9 @@ textarea {
 }
 
 /* ===== THEME BUTTON ===== */
-.theme-btn {
+/* default theme variables */
+
+ .theme-btn {
   position: fixed;
   top: 6rem;
   right: 0;
@@ -256,7 +258,6 @@ textarea {
 .theme-btn.sun .fa-sun {
   display: block;
 }
-
 /* ===== HEADER ===== */
 .header {
   position: fixed;
@@ -1798,6 +1799,7 @@ textarea {
   color:white;
   transition:.3s;
 }
+
 
 /* hover effect */
 
