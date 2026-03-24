@@ -52,6 +52,7 @@ export const example = [
     github: 'https://github.com/SUJI-26/Todo-list.git',
     live: 'https://suji-26.github.io/Todo-list/'
   },
+  
   {
     title: 'Weather App',
     tech: 'HTML, CSS, JavaScript',
