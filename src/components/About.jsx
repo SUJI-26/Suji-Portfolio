@@ -1,4 +1,4 @@
-import sujiImg2 from "../assets/images/Suji img2.jpg";
+import sujiImg2 from "../assets/images/Abouts.png";
 
 const About = () => {
   return (
@@ -36,8 +36,8 @@ const About = () => {
               skilled Full Stack and Application Developer capable of developing
               scalable and efficient applications.
             </p>
-            <a href="SUJI-Front.pdf" className="btn primary-btn">
-              Download CV <i className="fas fa-download"></i>
+            <a href="#projects" className="btn primary-btn">
+              View My Work <i className="fas fa-arrow-right"></i>
             </a>
           </div>
         </div>

@@ -34,6 +34,7 @@ const Header = () => {
                   <li><a href="#home" className="nav-link active" onClick={closeMenu}><i className="fas fa-home"></i> Home</a></li>
                   <li><a href="#about" className="nav-link" onClick={closeMenu}><i className="fas fa-user"></i> About me</a></li>
                   <li><a href="#skills" className="nav-link" onClick={closeMenu}><i className="fas fa-file-lines"></i> Skills</a></li>
+                  <li><a href="#experience" className="nav-link" onClick={closeMenu}><i className="fas fa-file-lines"></i> Experience</a></li>
                   <li><a href="#projects" className="nav-link" onClick={closeMenu}><i className="fas fa-image"></i> Projects</a></li>
                   <li><a href="#contact" className="nav-link" onClick={closeMenu}><i className="fas fa-envelope"></i> Contact</a></li>
                 </ul>

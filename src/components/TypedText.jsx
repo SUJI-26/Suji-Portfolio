@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 
 const TypedText = () => {
-  const words = ['Frontend Developer', 'Web Developer', 'Web Designer']
+  const words = ['Frontend Developer', 'React Developer','Full-Stack Developer']
   const [text, setText] = useState('')
   const [wordIndex, setWordIndex] = useState(0)
   const [isDeleting, setIsDeleting] = useState(false)
