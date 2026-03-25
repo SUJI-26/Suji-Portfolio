@@ -1858,13 +1858,13 @@ textarea {
 .experience-header h3 {
   font-size: var(--h3-font-size);
   font-weight: var(--font-semi-bold);
-  color: var(--primary-color);
+  color: var(--body-bg-color--);
   margin-bottom: 0.25rem;
 }
 
 .company {
   font-weight: var(--font-medium);
-  color: var(--text-color-light);
+  color: var(--primary-color-hover);
   margin: 0;
 }
 
@@ -1896,7 +1896,15 @@ textarea {
   }
 }
 
-
+#new-btn{
+  background-color: var(--primary-color);
+    --border-color: rgba(0, 0, 0, 0.1);
+  --box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  --box-shadow-hover: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+#new-btn:hover{
+background-color: var(--primary-color-hover);
+}
 
 
 

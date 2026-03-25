@@ -34,9 +34,7 @@ const Projects = () => {
 
           {visibleProjects < example.length && (
             <div className="projects-btn">
-              <button className="see-more-btn" onClick={handleSeeMore}>
-                See More
-              </button>
+              <button id="new-btn" className="btn btn primary" onClick={handleSeeMore}> See More <i className="fas fa-arrow-down"></i></button>
             </div>
           )}
         </div>

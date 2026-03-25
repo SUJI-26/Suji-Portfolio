@@ -50,10 +50,10 @@ const Contact = () => {
             </p>
             <form className="contact-form">
               <div className="form-group">
-                <input type="text" placeholder="Name" required />
+                <input type="text" placeholder="John Doe" required />
               </div>
               <div className="form-group">
-                <input type="email" placeholder="Email" required />
+                <input type="email" placeholder="John@gmail.com" required />
               </div>
               <div className="form-group">
                 <textarea rows="7" placeholder="Message" required></textarea>
